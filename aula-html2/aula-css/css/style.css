@@ -1,0 +1,50 @@
+.corAzul {
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+    text-transform: lowercase;
+
+}
+
+.corRosa {
+    color: rgb(216, 10, 223);
+    font-family: cursive; 
+    font-weight: bold;
+    font-size: 30px;
+    text-align: right;
+    text-transform: dashedfull-size-kana;
+
+}
+
+.banner {
+    display: flex ;
+    box-sizing: border-box;
+    padding: 10px ;
+    margin: 200px ;
+    width: 400px;
+    height: 250px ;
+    background-color: #888488 ;
+    border: 10px solid #030101 ;
+
+}
+
+.titulo-topo-amarelo{
+color: yellow ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    text-transform:uppercase ;
+}
+
+.titulo-azul{
+    color: rgb(27, 48, 238) ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    text-align: justify;
+    text-transform: none;
+
+}
